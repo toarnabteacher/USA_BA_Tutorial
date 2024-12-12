@@ -84,7 +84,7 @@ AI fine tuning is a technique where a pre-trained model is further trained on a 
 
 <hr>
 
-## chatGPT and GPT4
+## ChatGPT and GPT4
 
 ChatGPT is a chatbot developed by OpenAI and launched on November 30, 2022. Based on large language models, it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. 
 
