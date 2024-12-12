@@ -1,8 +1,20 @@
-# USA_BA_Tutorial
+# USA_BA_334
 
 <hr>
 
-## Chapter-1 - Project Management Resources:
+## Index:
+* [Chapter-1 - Project Management Resources:](#Chapter-1)
+* [Chapter-2 - SDLC Resources:](#Chapter-2)
+* [Chapter-3 - UML and www.draw.io Resources:](#Chapter-3)
+* [Chapter-4 - MS-Office/O365 Reference Tutorial Links and Resources:](#Chapter-4)
+* [Chapter-5 - Prompt Engineering Resources:](#Chapter-5)
+* [Chapter-6 - DBMS and Oracle SQL Resources:](#Chapter-6)
+* [Chapter-7 - MS-Power BI Resources:](#Chapter-7)
+
+<hr>
+
+## Chapter-1
+## Project Management Resources:
 
 **Tutorials on Project Management:**<br>
 * https://www.guru99.com/initiation-phase-project-management-life-cycle.html
@@ -18,7 +30,8 @@ http://tinyurl.com/44y8ppnj
 
 <hr>
 
-## Chapter-2 - SDLC Resources:
+## Chapter-2
+## SDLC Resources:
 
 **Pressman E-Book Download Link (8th Edition):**<br>
 https://invent.ilmkidunya.com/images/Section/12.pdf
@@ -34,7 +47,8 @@ https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
 
 <hr>
 
-## Chapter-3 - UML and www.draw.io Resources:
+## Chapter-3
+## UML and www.draw.io Resources:
 
 **For Diagram Making:**<br>
 https://app.diagrams.net/
@@ -56,7 +70,8 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-4 - MS-Office/O365 Reference Tutorial Links and Resources:
+## Chapter-4
+## MS-Office/O365 Reference Tutorial Links and Resources:
 
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
@@ -69,7 +84,8 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-5 - Prompt Engineering Resources:
+## Chapter-5
+## Prompt Engineering Resources:
 
 **Prompt Engineering Tutorials and Resources:** <br>
 
@@ -114,7 +130,8 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-6 - DBMS and Oracle SQL Resources:
+## Chapter-6
+## DBMS and Oracle SQL Resources:
 
 ### Oracle Tutorials:
 * **Oracle Tutorial:** https://www.oracletutorial.com/
@@ -132,7 +149,8 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-7 - MS-Power BI Resources:
+## Chapter-7
+## MS-Power BI Resources:
 
 **Power BI Download and Tutorial Links:**<br>
 * **PowerBI Download Link:** https://www.microsoft.com/en-us/download/details.aspx?id=58494
